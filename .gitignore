@@ -1,0 +1,4 @@
+*.pyc
+*.in
+*.out
+python/2018/qualification/testing_tool.py
