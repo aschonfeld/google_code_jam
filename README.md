@@ -13,6 +13,7 @@ Progress
 
 | Year  | Progress | Language | Favourite problem |
 | ------------- | ------------- | -- | -- |
+| 2018  | Round 1C, rank 2233 (40 points) | Python | [Lollipop Shop](https://codejam.withgoogle.com/2018/challenges/0000000000007765/dashboard/000000000003e068)|
 | 2018  | Qualification Round, rank 12799 (33 points) | Python | [Trouble Sort](https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard)|
 | 2016  | Qualification Round, rank 7181 (55 points) | Java | [Revenge of the Pancakes](https://code.google.com/codejam/contest/6254486/dashboard#s=p1)|
 | 2015  | Round 1A, rank 3932 (15 points) | Java | [Mushroom Monster](https://code.google.com/codejam/contest/4224486/dashboard) |
