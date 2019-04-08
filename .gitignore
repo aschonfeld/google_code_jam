@@ -1,4 +1,9 @@
 *.pyc
 *.in
 *.out
-python/2018/qualification/testing_tool.py
+**/testing_tool.py
+**/interactive_runner.py
+**/build/
+**/dist/
+.idea
+*.spec

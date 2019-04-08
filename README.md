@@ -11,8 +11,9 @@ These are my code jam submissions for the [Google Code Jam](https://code.google.
 Progress
 -----
 
-| Year  | Progress | Language | Favourite problem |
+| Year  | Progress | Language | Favorite problem |
 | ------------- | ------------- | -- | -- |
+| 2019  | Qualification Round, rank 18837 (41 points) | Python | [You Can Go Your Own Way](https://codingcompetitions.withgoogle.com/codejam/round/0000000000051705/00000000000881da)|
 | 2018  | Round 1C, rank 2233 (40 points) | Python | [Lollipop Shop](https://codejam.withgoogle.com/2018/challenges/0000000000007765/dashboard/000000000003e068)|
 | 2018  | Qualification Round, rank 12799 (33 points) | Python | [Trouble Sort](https://codejam.withgoogle.com/2018/challenges/00000000000000cb/dashboard)|
 | 2016  | Qualification Round, rank 7181 (55 points) | Java | [Revenge of the Pancakes](https://code.google.com/codejam/contest/6254486/dashboard#s=p1)|
